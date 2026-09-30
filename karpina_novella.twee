@@ -1,28 +1,33 @@
 :: StoryTitle
-- 1
+0.Карпиной 1
 
 
 :: StoryData
 {
-  "ifid": "7deb3b49-58a5-4014-9e2b-3b1e9be3e90b",
+  "ifid": "05d0ce29-1a26-463d-995c-2a8de134e0f0",
   "format": "Harlowe",
   "format-version": "3.3.9",
   "start": "Параграф без названия",
   "tag-colors": {
     "my-bg": "green",
-    "my-bg2": "blue",
+    "my-bg2": "green",
     "me-bg3": "purple",
-    "my-bg3": "orange",
-    "my-bg4": "purple",
-    "my-bg5": "red"
+    "my-bg3": "green",
+    "my-bg4": "green",
+    "my-bg5": "green",
+    "my_bg6": "green",
+    "model-1": "purple",
+    "model_1": "purple",
+    "my-bg6": "green",
+    "my": "blue"
   },
   "zoom": 1
 }
 
 
-:: 1.1 [my-bg] {"position":"800,475","size":"100,100"}
+:: 1.1 [my-bg my] {"position":"825,225","size":"100,100"}
 <!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
+<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/character_1.png" class="char-right-back">
 
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
@@ -34,10 +39,8 @@
 </div>
 
 
-:: 1.2 [my-bg] {"position":"800,600","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
 
+:: 1.2 [my-bg my] {"position":"975,250","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -49,10 +52,7 @@
 </div>
 
 
-:: 1.3 [my-bg] {"position":"800,725","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 1.3 [my-bg my] {"position":"1100,350","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -63,10 +63,7 @@
 </div>
 
 
-:: 1.4 [my-bg2] {"position":"800,850","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 1.4 [my-bg2 my] {"position":"1225,475","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -78,9 +75,9 @@
 
 
 
-:: 1.5 [my-bg2] {"position":"800,975","size":"100,100"}
+:: 1.5 [my-bg2 my] {"position":"1100,525","size":"100,100"}
 <!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
+<img src="https://raw.githubusercontent.com/AnnaKarpina/novell/main/character_2.png" class="char-left-back">
 
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
@@ -92,9 +89,9 @@
 </div>
 
 
-:: 1.6 [my-bg2] {"position":"800,1100","size":"100,100"}
+:: 1.6 [my-bg2 my] {"position":"975,600","size":"100,100"}
 <!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
+<img src="https://raw.githubusercontent.com/AnnaKarpina/novell/main/character_1.png" class="char-right-back">
 
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
@@ -107,9 +104,9 @@
 
 
 
-:: 1.7 [my-bg2] {"position":"800,1225","size":"100,100"}
+:: 1.7 [my-bg2 my] {"position":"825,650","size":"100,100"}
 <!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
+<img src="https://raw.githubusercontent.com/AnnaKarpina/novell/main/character_2.png" class="char-left-back">
 
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
@@ -122,9 +119,9 @@
 </div>
 
 
-:: 2.1 [my-bg2] {"position":"862.5,1350","size":"100,100"}
+:: 2.1 [my-bg2 my] {"position":"675,725","size":"100,100"}
 <!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
+<img src="https://raw.githubusercontent.com/AnnaKarpina/novell/main/character_1.png" class="char-right-back">
 
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
@@ -136,9 +133,9 @@
 </div>
 
 
-:: 2.2 [my-bg2] {"position":"1000,1350","size":"100,100"}
+:: 2.2 [my-bg2 my] {"position":"525,800","size":"100,100"}
 <!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
+<img src="https://raw.githubusercontent.com/AnnaKarpina/novell/main/character_2.png" class="char-left-back">
 
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
@@ -150,10 +147,7 @@
 </div>
 
 
-:: 2.3 [my-bg3] {"position":"1000,1225","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 2.3 [my-bg3 my] {"position":"650,875","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -164,10 +158,7 @@
 </div>
 
 
-:: 2.4 [my-bg3] {"position":"1000,1100","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 2.4 [my-bg3 my] {"position":"775,925","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -179,10 +170,7 @@
 
 
 
-:: 2.5 [my-bg3] {"position":"1000,975","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 2.5 [my-bg3 my] {"position":"900,975","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Неизвестный голоc</div>
@@ -193,9 +181,9 @@
 </div>
 
 
-:: 2.6 [my-bg3] {"position":"1000,850","size":"100,100"}
+:: 2.6 [my-bg3 my] {"position":"1050,1025","size":"100,100"}
 <!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
+<img src="https://raw.githubusercontent.com/AnnaKarpina/novell/main/character_1.png" class="char-right-back">
 
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
@@ -208,9 +196,9 @@
 </div>
 
 
-:: 3.1 [my-bg3] {"position":"1000,725","size":"100,100"}
+:: 3.1 [my-bg3 my] {"position":"1200,1100","size":"100,100"}
 <!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
+<img src="https://raw.githubusercontent.com/AnnaKarpina/novell/main/character_1.png" class="char-right-back">
 
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
@@ -222,10 +210,7 @@
 </div>
 
 
-:: 3.2 {"position":"1000,600","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 3.2 {"position":"1075,1175","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -236,10 +221,7 @@
 </div>
 
 
-:: 3.3 {"position":"1000,475","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 3.3 {"position":"925,1200","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Водяница</div>
@@ -250,10 +232,7 @@
 </div>
 
 
-:: 3.4 {"position":"1000,350","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 3.4 {"position":"775,1250","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -264,10 +243,7 @@
 </div>
 
 
-:: 3.5 [my-bg4] {"position":"1000,225","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 3.5 [my-bg4 my] {"position":"625,1300","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -278,10 +254,7 @@
 </div>
 
 
-:: 3.6 [my-bg4] {"position":"850,200","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 3.6 [my-bg4 my] {"position":"475,1375","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -292,9 +265,9 @@
 </div>
 
 
-:: 3.7 [my-bg4] {"position":"700,200","size":"100,100"}
+:: 3.7 [my-bg4 my] {"position":"625,1450","size":"100,100"}
 <!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
+<img src="https://raw.githubusercontent.com/AnnaKarpina/novell/main/character_1.png" class="char-right-back">
 
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
@@ -307,9 +280,9 @@
 </div>
 
 
-:: 4.1 [my-bg4] {"position":"600,375","size":"100,100"}
+:: 4.1 [my-bg4 my] {"position":"800,1500","size":"100,100"}
 <!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
+<img src="https://raw.githubusercontent.com/AnnaKarpina/novell/main/character_1.png" class="char-right-back">
 
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
@@ -321,10 +294,7 @@
 </div>
 
 
-:: 4.2 [my-bg4] {"position":"600,525","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 4.2 [my-bg4 my] {"position":"975,1550","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -335,10 +305,7 @@
 </div>
 
 
-:: 4.3 [my-bg4] {"position":"650,650","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 4.3 [my-bg4 my] {"position":"1100,1625","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -349,7 +316,7 @@
 </div>
 
 
-:: 4.4 [my-bg5] {"position":"675,775","size":"100,100"}
+:: 4.4 [my-bg5 my] {"position":"1250,1725","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <p class="dialogue-text">
@@ -359,10 +326,7 @@
 </div>
 
 
-:: 5 [my-bg5] {"position":"650,900","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 5 [my-bg5 my] {"position":"1125,1825","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -373,10 +337,7 @@
 </div>
 
 
-:: 5.1 [my-bg5] {"position":"625,1025","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 5.1 [my-bg5 my] {"position":"975,1850","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -387,9 +348,9 @@
 </div>
 
 
-:: 5.2 [my-bg5] {"position":"675,1150","size":"100,100"}
+:: 5.2 [my-bg5 my] {"position":"800,1925","size":"100,100"}
 <!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
+<img src="https://raw.githubusercontent.com/AnnaKarpina/novell/main/character_1.png" class="char-right-back">
 
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
@@ -401,10 +362,7 @@
 </div>
 
 
-:: 5.3 {"position":"600,1275","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 5.3 [my-bg6 my] {"position":"625,1925","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -416,10 +374,7 @@
 </div>
 
 
-:: 5.4 {"position":"525,1400","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: 5.4 [my-bg6 my] {"position":"450,1925","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -430,9 +385,9 @@
 </div>
 
 
-:: 5.5 {"position":"450,1250","size":"100,100"}
+:: 5.5 [my-bg6 my] {"position":"500,2075","size":"100,100"}
 <!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
+<img src="https://raw.githubusercontent.com/AnnaKarpina/novell/main/character_4.png" class="char-center-front">
 
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
@@ -443,14 +398,11 @@
 </div>
 
 
-:: Dead.1 {"position":"737.5,1600","size":"100,100"}
+:: Dead.1 {"position":"375,500","size":"100,100"}
 ПОЛУЧЕНА КОНЦОВКА: «Вечная служанка в терему из мха»
 
 
-:: Dead.1.1 [my-bg2] {"position":"737.5,1350","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: Dead.1.1 [my-bg2 my] {"position":"700,500","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -461,9 +413,9 @@
 </div>
 
 
-:: Dead.1.2 [my-bg2] {"position":"737.5,1475","size":"100,100"}
+:: Dead.1.2 [my-bg2 my] {"position":"525,500","size":"100,100"}
 <!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
+<img src="https://raw.githubusercontent.com/AnnaKarpina/novell/main/character_2.png" class="char-left-back">
 
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
@@ -475,14 +427,11 @@
 </div>
 
 
-:: Dead.2 {"position":"1325,1000","size":"100,100"}
+:: Dead.2 {"position":"1475,900","size":"100,100"}
 ПОЛУЧЕНА КОНЦОВКА: «Жемчужное дно»
 
 
-:: Dead.2.1 [my-bg3] {"position":"1175,850","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: Dead.2.1 [my-bg3 my] {"position":"1200,900","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -493,9 +442,9 @@
 </div>
 
 
-:: Dead.2.2 [my-bg3] {"position":"1325,850","size":"100,100"}
+:: Dead.2.2 [my-bg3 my] {"position":"1325,900","size":"100,100"}
 <!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
+<img src="https://raw.githubusercontent.com/AnnaKarpina/novell/main/character_3.png" class="char-left-back">
 
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
@@ -507,15 +456,12 @@
 </div>
 
 
-:: Dead.3 {"position":"450,150","size":"100,100"}
+:: Dead.3 {"position":"250,1625","size":"100,100"}
 КОНЦОВКА: «Серый пёс»
 
 
 
-:: Dead.3.1 [my-bg4] {"position":"575,150","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: Dead.3.1 [my-bg4 my] {"position":"425,1550","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -526,10 +472,7 @@
 </div>
 
 
-:: Параграф без названия [my-bg] {"position":"800,350","size":"100,100"}
-<!-- ПЕРСОНАЖИ -->
-<img src="https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/modeln_dly_novell_1.png" class="character character-left" alt="Персонаж">
-
+:: Параграф без названия [my-bg my] {"position":"650,225","size":"100,100"}
 <!-- ОКНО ДИАЛОГА -->
 <div class="dialogue-box">
     <div class="speaker-name speaker-narrator">Рассказчик</div>
@@ -538,8 +481,6 @@
     </p>
     <p>[[Далее|1.1]]</p>
 </div>
-
-
 
 
 :: StoryStylesheet [stylesheet]
@@ -555,9 +496,40 @@ tw-sidebar {
     display: none !important;
 }
 
+/* 1. Персонаж по центру, ПЕРЕД диалоговым окном */
+.char-center-front {
+    position: fixed;
+    bottom: 30;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 85vh;
+    z-index: 20;
+    pointer-events: none;
+}
+
+/* 2. Персонаж слева, ЗА диалоговым окном */
+.char-left-back {
+    position: fixed;
+    bottom: 0vh;
+    left: 5%;
+    height: 85vh;
+    z-index: 5; /* Ниже окна диалога */
+    pointer-events: none;
+}
+
+/* 3. Персонаж справа, ЗА диалоговым окном */
+.char-right-back {
+    position: fixed;
+    bottom: 0vh;
+    right: 5%;
+    height: 85vh;
+    z-index: 5;
+    pointer-events: none;
+}
+
 /* --- ФОН ДЛЯ ПАССАЖА С ТЕГОМ my-bg --- */
 tw-story[tags~="my-bg"] {
-    background-image: url("https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/fon_dly_novell1.png");
+    background-image: url("https://raw.githubusercontent.com/AnnaKarpina/novell/main/fon_1.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -567,7 +539,47 @@ tw-story[tags~="my-bg"] {
 
 /* --- ФОН ДЛЯ ПАССАЖА С ТЕГОМ my-bg2 --- */
 tw-story[tags~="my-bg2"] {
-    background-image: url("https://raw.githubusercontent.com/AnnaKarpina/novell-1/main/fon_dly_novell2.png");
+    background-image: url("https://raw.githubusercontent.com/AnnaKarpina/novell/main/fon_2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Фон не двигается при прокрутке */
+    min-height: 100vh;
+}
+
+/* --- ФОН ДЛЯ ПАССАЖА С ТЕГОМ my-bg3 --- */
+tw-story[tags~="my-bg3"] {
+    background-image: url("https://raw.githubusercontent.com/AnnaKarpina/novell/main/fon_3.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Фон не двигается при прокрутке */
+    min-height: 100vh;
+}
+
+/* --- ФОН ДЛЯ ПАССАЖА С ТЕГОМ my-bg4 --- */
+tw-story[tags~="my-bg4"] {
+    background-image: url("https://raw.githubusercontent.com/AnnaKarpina/novell/main/fon_4.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Фон не двигается при прокрутке */
+    min-height: 100vh;
+}
+
+/* --- ФОН ДЛЯ ПАССАЖА С ТЕГОМ my-bg5 --- */
+tw-story[tags~="my-bg5"] {
+    background-image: url("https://raw.githubusercontent.com/AnnaKarpina/novell/main/fon_5.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Фон не двигается при прокрутке */
+    min-height: 100vh;
+}
+
+/* --- ФОН ДЛЯ ПАССАЖА С ТЕГОМ my-bg6 --- */
+tw-story[tags~="my-bg6"] {
+    background-image: url("https://raw.githubusercontent.com/AnnaKarpina/novell/main/fon_6.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -576,7 +588,7 @@ tw-story[tags~="my-bg2"] {
 }
 
 /* Убираем стандартные отступы Harlowe, чтобы они не мешали */
-tw-story[tags~="my-bg"] tw-passage {
+tw-story[tags~="my"] tw-passage {
     width: 100%;
     margin: 0;
     padding: 0;
